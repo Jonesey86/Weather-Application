@@ -9,3 +9,6 @@ STEPS TO RUN THE CODE:
 5. Copy that key to clipboard
 6. Insert that key into the required variable in the script.js file
    Enjoy!
+
+📚 Tech used 📚
+Java Script, C#, HTML, CSS

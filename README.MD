@@ -1,4 +1,4 @@
-A simple weather application using the openweather API.
+A simple weather application using the openweather API 🌡️☁️
 
 STEPS TO RUN THE CODE:
 
